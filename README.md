@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isha Prabhu</h1>
+<h1 align="center">Hello, I'm Isha Prabhu</h1>
 <h3 align="center">computer science student</h3>
 
 - 🌱 I’m currently learning **VR on Unreal Engine**
