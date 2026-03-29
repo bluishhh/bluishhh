@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Isha Prabhu</h1>
-<h3 align="center">computer science student</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **VR on Unreal Engine**
 
 - 📫 How to reach me **prabhuisha2002@gmail.com**
 
